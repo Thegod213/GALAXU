@@ -1,0 +1,2 @@
+# GALAXU
+✨𝔾𝔸𝕃𝔸𝕏𝕐✨ es 1 bot creado por el usuario ⚔🗡🛡 𝓣𝓱𝓮 𝓰𝓸𝓭🛡🗡 ⚔ .Tiene muchas funciones como las de moderador pero lo malo es que para los comandos de moderación están todos pero con las configuraciones predeterminadas para banear necesitas permisos de ban y haci con todo tiene algunas funciones extras que son secretas y prefix custom no tiene auto log y es más bot de divesion que de moderacion nos puedes sugerir cosas con el comando > su cambia el > por tu prefix y nos avisara de que quieres ese comando
